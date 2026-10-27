@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "1793079024773",
+    "title": "lunch with friends",
+    "amount": 890,
+    "category": "Food",
+    "date": "2026-10-27"
+  },
+  {
+    "_id": "1793079316857",
+    "title": "outing",
+    "amount": 670,
+    "category": "Bills",
+    "date": "2026-10-27"
+  }
+]
